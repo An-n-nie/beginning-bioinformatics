@@ -1,5 +1,5 @@
-## AI Use Log
-# Rosalind (1-9):
+# AI Use Log
+## Rosalind (1-9):
 - Tool/model & version: Gemini 2.5 Flash
 - What I asked for: additional background introductions, code error corrections
 - Snippet of prompt(s): "what's the diff when I do x vs y", "what would happen if I do xyz", "explain this code", "explain this error"
